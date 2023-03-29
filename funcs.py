@@ -1,8 +1,10 @@
 def sum_():
     a = 3 + 4
-    return a
+    return print(a)
 
 
 def minus():
     a = 5 - 2
-    return a
+    return print(a)
+
+
