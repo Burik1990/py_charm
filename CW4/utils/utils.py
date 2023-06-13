@@ -37,7 +37,7 @@ def get_correct_hh_salary(value_from, value_to):
 
 
 def get_correct_experience_sj(experience):
-    """ Функция приводящая поле опыта работы к формату HH"""
+    """ Функция при водящая поле опыта работы к формату HH"""
 
     correct_experience = ''
     if experience == 'От 3 лет':
